@@ -31,7 +31,7 @@ Features
 
 
 Quick starters guide
-====================
+=====================
 
 Creating a graph
 ----------------
