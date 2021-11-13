@@ -29,7 +29,6 @@ Features
 - Dot file import/export support. 
 - Compiled for .NET Standard 2.0
 
-
 Quick starters guide
 =====================
 
